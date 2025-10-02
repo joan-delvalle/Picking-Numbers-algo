@@ -1,1 +1,1 @@
-# Picking-Numbers-algo
+# Picking-Numbers-algo The program counts how many times each number appears in the list using a dictionary.Then, for each number, it checks the total count of that number plus its neighbor (num + 1) to find the longest valid subarray, returning the maximum length.
